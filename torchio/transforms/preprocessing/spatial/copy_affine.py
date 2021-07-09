@@ -68,6 +68,10 @@ class CopyAffine(SpatialTransform):
             )
             raise ValueError(message)
         self.target = target
+<<<<<<< HEAD
+=======
+        self.args_names = ('target',)
+>>>>>>> a0b73a93490ed9f61aad2c2fa43ab7a75d94ba14
 
     def apply_transform(self, subject: Subject) -> Subject:
         if self.target not in subject:

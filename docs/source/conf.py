@@ -25,7 +25,11 @@ author = 'Fernando Pérez-García'
 
 # version is the short X.Y version
 # release is the full version, including alpha/beta/rc tags
+<<<<<<< HEAD
 version = release = '0.18.42'
+=======
+version = release = '0.18.45'
+>>>>>>> a0b73a93490ed9f61aad2c2fa43ab7a75d94ba14
 
 
 # -- General configuration ---------------------------------------------------

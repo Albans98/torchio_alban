@@ -2,7 +2,11 @@
 
 __author__ = """Fernando Perez-Garcia"""
 __email__ = 'fernando.perezgarcia.17@ucl.ac.uk'
+<<<<<<< HEAD
 __version__ = '0.18.42'
+=======
+__version__ = '0.18.45'
+>>>>>>> a0b73a93490ed9f61aad2c2fa43ab7a75d94ba14
 
 
 from . import utils
